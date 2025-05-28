@@ -28,3 +28,9 @@ A quick and simple Python script to **add signature images to PDFs** — ideal f
     source venv/bin/activate
     pip install -r requirements.txt
 
+## 📝 Usage
+
+### ✍️ Basic signature
+
+        signpdf contract.pdf sig.png --coords 1x100x100x150x40
+
