@@ -53,3 +53,6 @@ A quick and simple Python script to **add signature images to PDFs** — ideal f
 - --date → Append the current date to the right of the signature
 
 - --output → Output file name (_signed will be added by default)
+
+## 📚 For full options, run:
+    signpdf --help
