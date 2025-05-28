@@ -56,3 +56,7 @@ A quick and simple Python script to **add signature images to PDFs** — ideal f
 
 ## 📚 For full options, run:
     signpdf --help
+
+## ✨ Author
+
+Developed by Mangala.Manmatharaja
