@@ -17,8 +17,14 @@ A quick and simple Python script to **add signature images to PDFs** — ideal f
 
 ### 📦 Using pip
 
-bash
-pip install signpdf
+### bash
+    pip install signpdf
 
 
+## 🧪 From source
+    git clone https://github.com/yourcelf/signpdf
+    cd signpdf
+    python3 -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
 
