@@ -34,3 +34,16 @@ A quick and simple Python script to **add signature images to PDFs** — ideal f
 
         signpdf contract.pdf sig.png --coords 1x100x100x150x40
 
+### 🧭 Coordinates format:
+
+    <pagenum>x<x-coord>x<y-coord>x<width>x<height>
+
+- pagenum → page number (starting at 1)
+
+- x-coord → horizontal distance from bottom-left (in 1/72 inch units)
+
+- y-coord → vertical distance from bottom-left (in 1/72 inch units)
+
+- width → signature width
+
+- height → signature height
